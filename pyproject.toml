@@ -1,0 +1,13 @@
+[project]
+name = "dockspace"
+version = "0.1.0"
+description = "CLI tool to inspect WSL and Docker disk usage"
+authors = [
+  { name = "Jeon Hyungjin" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+dockspace = "dockspace.cli:main"

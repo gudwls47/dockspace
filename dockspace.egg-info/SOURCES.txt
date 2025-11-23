@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+dockspace/__init__.py
+dockspace/cli.py
+dockspace/disk_info.py
+dockspace/docker_info.py
+dockspace.egg-info/PKG-INFO
+dockspace.egg-info/SOURCES.txt
+dockspace.egg-info/dependency_links.txt
+dockspace.egg-info/entry_points.txt
+dockspace.egg-info/top_level.txt
