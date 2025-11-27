@@ -1,4 +1,4 @@
-# dockspace
+# dockspace : WSL·Docker 디스크 정리 도와주는 CLI
 
 > WSL / Windows 환경에서 **디스크 사용량**과 **Docker가 차지하는 용량**,  
 > 그리고 **Windows Temp 폴더 용량**까지 한 번에 확인하고,  
